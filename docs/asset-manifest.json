@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1f1fa6e.chunk.css",
+    "main.js": "/static/js/main.b3944f51.chunk.js",
+    "main.js.map": "/static/js/main.b3944f51.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d0605945.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d0605945.js.map",
+    "static/css/2.004d297d.chunk.css": "/static/css/2.004d297d.chunk.css",
+    "static/js/2.3208a00b.chunk.js": "/static/js/2.3208a00b.chunk.js",
+    "static/js/2.3208a00b.chunk.js.map": "/static/js/2.3208a00b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.004d297d.chunk.css.map": "/static/css/2.004d297d.chunk.css.map",
+    "static/css/main.e1f1fa6e.chunk.css.map": "/static/css/main.e1f1fa6e.chunk.css.map",
+    "static/js/2.3208a00b.chunk.js.LICENSE.txt": "/static/js/2.3208a00b.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/static/media/fa-solid-900.f4f93856.woff",
+    "static/media/malave.8b44d0ea.jpg": "/static/media/malave.8b44d0ea.jpg",
+    "static/media/project2.bd75cec8.png": "/static/media/project2.bd75cec8.png",
+    "static/media/project3.1d58e723.png": "/static/media/project3.1d58e723.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0605945.js",
+    "static/css/2.004d297d.chunk.css",
+    "static/js/2.3208a00b.chunk.js",
+    "static/css/main.e1f1fa6e.chunk.css",
+    "static/js/main.b3944f51.chunk.js"
+  ]
+}
